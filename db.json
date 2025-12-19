@@ -1,0 +1,91 @@
+{
+  "snacks": [
+    {
+      "id": "1",
+      "name": "Samosa",
+      "price": 20,
+      "ordersCount": 0
+    },
+    {
+      "id": "2",
+      "name": "Sandwich",
+      "price": 40,
+      "ordersCount": 0
+    },
+    {
+      "id": "3",
+      "name": "Juice",
+      "price": 30,
+      "ordersCount": 0
+    },
+    {
+      "id": "4",
+      "name": "Veg Puff",
+      "price": 25,
+      "ordersCount": 0
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Muffin",
+      "price": 40,
+      "ordersCount": 0
+    },
+    {
+      "id": "6",
+      "name": "Cold Coffee",
+      "price": 45,
+      "ordersCount": 0
+    },
+    {
+      "id": "7",
+      "name": "French Fries",
+      "price": 60,
+      "ordersCount": 0
+    },
+    {
+      "id": "8",
+      "name": "Burger",
+      "price": 70,
+      "ordersCount": 0
+    },
+    {
+      "id": "9",
+      "name": "Tea",
+      "price": 15,
+      "ordersCount": 0
+    },
+    {
+      "id": "10",
+      "name": "Biscuits Pack",
+      "price": 10,
+      "ordersCount": 0
+    }
+  ],
+  "students": [
+    {
+      "id": "09fa",
+      "name": "Khushi",
+      "referralCode": "REF836",
+      "totalSpent": 0,
+      "orders": []
+    }
+  ],
+  "orders": [
+    {
+      "id": "c0a4",
+      "studentId": "09fa",
+      "snackId": "3",
+      "snackName": "Juice",
+      "quantity": 1,
+      "amount": 30
+    },
+    {
+      "id": "797d",
+      "studentId": "09fa",
+      "snackId": "7",
+      "snackName": "French Fries",
+      "quantity": 1,
+      "amount": 60
+    }
+  ]
+}
