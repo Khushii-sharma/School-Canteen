@@ -47,10 +47,11 @@ The app will be available at:
 A real backend is not used in this project.
 Instead, **json-server** is used with a **db.json** file.
 The mock APIs include:
-- Fetching snacks
-- Creating students
-- Placing orders
-- Viewing student details
+  - Fetching snacks
+  - Creating students
+  - Placing orders
+  - Viewing student details
+  
 All data is stored locally inside db.json, which makes it easy to test the app without setting up a real server.
 
 
