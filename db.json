@@ -61,31 +61,6 @@
       "ordersCount": 0
     }
   ],
-  "students": [
-    {
-      "id": "09fa",
-      "name": "Khushi",
-      "referralCode": "REF836",
-      "totalSpent": 0,
-      "orders": []
-    }
-  ],
-  "orders": [
-    {
-      "id": "c0a4",
-      "studentId": "09fa",
-      "snackId": "3",
-      "snackName": "Juice",
-      "quantity": 1,
-      "amount": 30
-    },
-    {
-      "id": "797d",
-      "studentId": "09fa",
-      "snackId": "7",
-      "snackName": "French Fries",
-      "quantity": 1,
-      "amount": 60
-    }
-  ]
+  "students": [],
+  "orders": []
 }
